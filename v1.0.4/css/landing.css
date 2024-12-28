@@ -1,0 +1,43 @@
+.nav_right button {
+    width: 75px;
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+    background-color: #f05454;
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 3px;
+    font-size: 16px;
+}
+
+.body_container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-left: 1rem;
+    width: 100%;
+    flex-direction: row;
+}
+
+.body_container img {
+    width: 30rem;
+}
+
+.body_text {
+    width: 55%;
+}
+
+.body_text h1 {
+    font-size: 7rem;
+    color: #f05454;
+    margin-top: 5rem;
+}
+
+.body_text span {
+    color: #ffd369;
+}
+
+.body_text p {
+    font-size: 20px;
+}
