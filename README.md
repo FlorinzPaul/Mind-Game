@@ -62,8 +62,8 @@ Profile Management
 2. Update your profile picture and username as needed.
 3. Delete your account if desired.
 
-Directory Structure:
-(note: Read Raw)
+Directory Structure:(note: Read Raw)
+
 .
 └── v1.0.4/
     ├── css/
