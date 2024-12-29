@@ -62,4 +62,58 @@ Profile Management
 2. Update your profile picture and username as needed.
 3. Delete your account if desired.
 
-   
+Directory Structure:
+.
+└── v1.0.4/
+    ├── css/
+    │   ├── developer.css
+    │   ├── home.css
+    │   ├── landing.scc
+    │   ├── login.css
+    │   └── profile.css
+    ├── database/
+    │   └── mind_game_db.sql
+    ├── image/
+    │   ├── default-avatar.png
+    │   ├── design.gif
+    │   ├── FUD.png
+    │   ├── FUD2.png
+    │   ├── game-controller.png
+    │   ├── information.png
+    │   ├── log-out.png
+    │   ├── MemoryGame.png
+    │   ├── podium.png
+    │   └── PokémonFinder.png
+    ├── img/
+    │   ├── 67700b0ebcee.jpg.
+    │   └── ...ect // this is the directory to store uploaded profile img.
+    ├── js/
+    │   ├── home.js
+    │   ├── login.js
+    │   └── profile.js
+    └── miniGames/
+        ├── MemoruGame/
+        │   ├── assets/
+        │   │   ├── Decorator/
+        │   │   │   ├── decorator-hr-lg.png
+        │   │   │   ├── decorator-hr.png
+        │   │   │   ├── decorator-left.png
+        │   │   │   └── decorator-right.png
+        │   │   ├── card-back.png
+        │   │   ├── League of Legends Icon.svg
+        │   │   └── LOL.mp4
+        │   ├── about.css
+        │   ├── about.html
+        │   ├── m-game.css
+        │   ├── m-game.html
+        │   ├── m-game.js
+        │   └── riot-api.js
+        ├── connect.php
+        ├── delete_account_handler.php
+        ├── developers.html
+        ├── home.php
+        ├── index.php
+        ├── logout.php
+        ├── profile.php
+        ├── sign_in_out_handler.php
+        └── update_profile_handler.php
