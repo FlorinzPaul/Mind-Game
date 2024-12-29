@@ -63,6 +63,7 @@ Profile Management
 3. Delete your account if desired.
 
 Directory Structure:
+(note: Read Raw)
 .
 └── v1.0.4/
     ├── css/
