@@ -92,29 +92,29 @@ Directory Structure:(note: Read Raw)
     │   ├── home.js
     │   ├── login.js
     │   └── profile.js
-    └── miniGames/
-        ├── MemoruGame/
-        │   ├── assets/
-        │   │   ├── Decorator/
-        │   │   │   ├── decorator-hr-lg.png
-        │   │   │   ├── decorator-hr.png
-        │   │   │   ├── decorator-left.png
-        │   │   │   └── decorator-right.png
-        │   │   ├── card-back.png
-        │   │   ├── League of Legends Icon.svg
-        │   │   └── LOL.mp4
-        │   ├── about.css
-        │   ├── about.html
-        │   ├── m-game.css
-        │   ├── m-game.html
-        │   ├── m-game.js
-        │   └── riot-api.js
-        ├── connect.php
-        ├── delete_account_handler.php
-        ├── developers.html
-        ├── home.php
-        ├── index.php
-        ├── logout.php
-        ├── profile.php
-        ├── sign_in_out_handler.php
-        └── update_profile_handler.php
+    ├── miniGames/
+    │   └── MemoruGame/
+    │       ├── assets/
+    │       │   ├── Decorator/
+    │       │   │   ├── decorator-hr-lg.png
+    │       │   │   ├── decorator-hr.png
+    │       │   │   ├── decorator-left.png
+    │       │   │   └── decorator-right.png
+    │       │   ├── card-back.png
+    │       │   ├── League of Legends Icon.svg
+    │       │   └── LOL.mp4
+    │       ├── about.css
+    │       ├── about.html
+    │       ├── m-game.css
+    │       ├── m-game.html
+    │       ├── m-game.js
+    │       └── riot-api.js
+    ├── connect.php
+    ├── delete_account_handler.php
+    ├── developers.html
+    ├── home.php
+    ├── index.php
+    ├── logout.php
+    ├── profile.php
+    ├── sign_in_out_handler.php
+    └── update_profile_handler.php
